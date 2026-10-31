@@ -1,0 +1,31 @@
+{
+  "meals": [
+    {
+      "idMeal": "52795",
+      "strMeal": "Chicken Handi",
+      "strMealAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "Indian",
+      "strInstructions": "Take a large pot.\r\nHeat the oil.\r\n\r\nServe hot.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "strTags": "Curry, Spicy , ",
+      "strYoutube": "https://www.youtube.com/watch?v=IO0issT0Rmc",
+      "strIngredient1": "Chicken",
+      "strIngredient2": " Onion ",
+      "strIngredient3": "Salt",
+      "strIngredient4": "",
+      "strIngredient5": "",
+      "strIngredient6": null,
+      "strMeasure1": "1.2 kg",
+      "strMeasure2": " 5 thinly sliced ",
+      "strMeasure3": "",
+      "strMeasure4": " ",
+      "strMeasure5": "1 tsp",
+      "strMeasure6": null,
+      "strSource": "not-a-url",
+      "strImageSource": null,
+      "strCreativeCommonsConfirmed": null,
+      "dateModified": null
+    }
+  ]
+}
